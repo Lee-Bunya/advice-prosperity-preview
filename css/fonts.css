@@ -1,0 +1,12 @@
+/* Advice Prosperity (22 Nov 2026): Sora, the brand typeface (one variable file, weights 400 to 700).
+   The family name stays referenced everywhere as "Sora"; Arial is the guide's fallback. */
+@font-face {
+  font-family: "Sora";
+  src: url("../assets/ap/sora-latin.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100 800;
+  font-display: swap;
+}
+@font-face{font-family:"Saira";font-style:normal;font-weight:400;font-display:swap;src:url("../assets/93d9873a4340.woff2") format("woff2");}
+@font-face{font-family:"Saira";font-style:normal;font-weight:500;font-display:swap;src:url("../assets/bab77b8176af.woff2") format("woff2");}
+@font-face{font-family:"Saira";font-style:normal;font-weight:600;font-display:swap;src:url("../assets/3e5976f9c4d8.woff2") format("woff2");}
